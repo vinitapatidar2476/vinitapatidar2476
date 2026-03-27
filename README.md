@@ -34,7 +34,7 @@ MongoDB
 📧 Email: vinitapatel2476v@gmail.com  
 📱 Phone: +91-6376532476  
  
-🔗 LinkedIn: https://www.linkedin.com/in/vinita-patidar  
+🔗 LinkedIn: https://www.linkedin.com/in/vinita-patidar24/  
 
 
 
