@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Vinita Patidar
 
 💻 Full Stack Developer (MERN)  
-🎓 BCA Student (2022–2025)  
-📍 Rajasthan, India  
+🎓 BCA Student   
+📍 indore, India  
 
 ---
 
@@ -33,15 +33,10 @@ MongoDB
 
 📧 Email: vinitapatel2476v@gmail.com  
 📱 Phone: +91-6376532476  
-
-🔗 GitHub: https://github.com/vinitapatidar2476  
+ 
 🔗 LinkedIn: https://www.linkedin.com/in/vinita-patidar  
 
----
 
-## 📊 GitHub Stats
-
-![vinitapatidar2476](https://github-readme-stats.vercel.app/api?username=vinitapatidar2476&show_icons=true&theme=radical)
 
 ---
 
